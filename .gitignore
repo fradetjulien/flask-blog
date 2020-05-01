@@ -1,2 +1,7 @@
 *.pyc
 __pycache__/
+.DS_Store
+flaskblog/site-db
+flaskblog/.DS_Store
+flaskblog/static/profile_pics/
+flaskblog/static/.DS_Store
