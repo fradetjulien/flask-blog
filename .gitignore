@@ -1,6 +1,7 @@
 *.pyc
 __pycache__/
 .DS_Store
+Pipfile.lock
 flaskblog/site-db
 flaskblog/.DS_Store
 flaskblog/static/profile_pics/
